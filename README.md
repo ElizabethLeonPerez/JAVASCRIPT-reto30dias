@@ -27,4 +27,5 @@ export function solution(valor) {
   return typeof valor;
 }
 ```
-### Reto 2
+## Reto 2
+#### [Apuntes]()
