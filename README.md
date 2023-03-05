@@ -3,7 +3,7 @@ Reto de 30 días para resolver 30 problemas en JavaScript.
 
 
 ## Reto 1
-### [Apuntes](https://github.com/ElizabethLeonPerez/JAVASCRIPT-reto30dias/blob/420e092506b71be2a27bf8224cae5023847686b6/Notas-Reto1.md)
+#### [Apuntes](https://github.com/ElizabethLeonPerez/JAVASCRIPT-reto30dias/blob/420e092506b71be2a27bf8224cae5023847686b6/Notas-Reto1.md)
 
 En este desafío encontrarás una función llamada `solution` que recibe un parámetro llamado `valor`. Debes encontrar el tipo de dato del parámetro `valor` y retornarlo desde la función `solution`.
 
@@ -21,7 +21,7 @@ Debes obtener los siguientes resultados:
 "string"
 "boolean"
 ```
-#### Respuesta:
+### Respuesta:
 ```JavaScript
 export function solution(valor) {
   return typeof valor;
@@ -32,10 +32,10 @@ export function solution(valor) {
 
 
 ## Reto 3
-### [Apuntes]()
+#### [Apuntes]()
 
 ## Reto 4
-### [Apuntes]()
+#### [Apuntes]()
 
 ## Reto 5
-### [Apuntes]()
+#### [Apuntes]()
