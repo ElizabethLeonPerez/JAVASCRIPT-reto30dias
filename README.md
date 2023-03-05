@@ -32,4 +32,10 @@ export function solution(valor) {
 
 
 ## Reto 3
-#### [Apuntes]()
+### [Apuntes]()
+
+## Reto 4
+### [Apuntes]()
+
+## Reto 5
+### [Apuntes]()
