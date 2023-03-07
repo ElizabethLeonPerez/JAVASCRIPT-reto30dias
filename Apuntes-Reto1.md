@@ -1,6 +1,6 @@
 # Reto 1: Notas
 
-## Funciones: 
+## Funciones
 Se usan para realizar una tarea específica y pueden recibir uno o más argumentos y pueden devolver un valor como resultado.
 
 ``` Javascript
@@ -9,21 +9,21 @@ Se usan para realizar una tarea específica y pueden recibir uno o más argument
     }
 ```
 
-## Null: 
+## Null
 Representa un valor vacío o nulo.
 
 ``` Javascript
     const nombre =null;
     console.log(nombre); // imprime "null"
 ```
-## Undefined: 
+## Undefined
 Representa un valor que aún no ha sido asignado o que no tiene un valor válido.
 
 ``` Javascript
     let nombre;
     console.log(nombre); // imprime "undefined"
 ```
-## Symbol: 
+## Symbol
 Se utiliza para crear valores únicos e inmutables que se pueden utilizar como identificadores de propiedades de objetos.
 Un Symbol se crea usando la función Symbol(). Cada símbolo que se genera es único y no se puede duplicar, lo que lo hace ideal para evitar colisiones de nombres de propiedades en objetos.
 
@@ -39,7 +39,7 @@ Un Symbol se crea usando la función Symbol(). Cada símbolo que se genera es
     console.log(obj[propiedad1]); // "Valor de la propiedad 1"
     console.log(obj[propiedad2]); // "Valor de la propiedad 2"
 ```
-## BigInt: 
+## BigInt
 Se utiliza para representar números enteros de tamaño arbitrario.
 BigInt se crea mediante la adición del sufijo n a un número entero literal o utilizando la función BigInt().
 
