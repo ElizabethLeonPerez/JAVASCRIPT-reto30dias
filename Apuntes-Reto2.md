@@ -1,4 +1,4 @@
-# Reto 2: Apuntes
+# Reto 2: Operadores
 
 ## Operadores 
 Los operadores son elementos de lenguaje que nos permiten realizar `cálculos` y `comparaciones` en JavaScript.
