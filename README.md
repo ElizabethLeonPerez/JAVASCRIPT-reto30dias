@@ -54,8 +54,17 @@ Output: 381.0825;
 ```
 
 ### Respuesta:
+Opción 1
 ```JavaScript
-
+    export function calculateTip(billAmount, tipPercentage) {
+      return billAmount * (tipPercentage / 100)
+    }
+```
+Opción 2
+```JavaScript
+    export function calculateTip(billAmount, tipPercentage) {
+      return billAmount * (tipPercentage / 100)
+    }
 ```
 
 ## Reto 3
