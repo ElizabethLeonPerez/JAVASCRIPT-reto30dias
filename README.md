@@ -27,6 +27,7 @@ export function solution(valor) {
   return typeof valor;
 }
 ```
+
 ## Reto 2
 #### [Apuntes]()
 
@@ -51,11 +52,32 @@ Ejemplo 2:
 Input: calculateTip(1524.33, 25);
 Output: 381.0825;
 ```
+
+### Respuesta:
+```JavaScript
+
+```
+
 ## Reto 3
 #### [Apuntes]()
 
+
+### Respuesta:
+```JavaScript
+
+```
 ## Reto 4
 #### [Apuntes]()
 
+
+### Respuesta:
+```JavaScript
+
+```
 ## Reto 5
 #### [Apuntes]()
+
+### Respuesta:
+```JavaScript
+
+```
