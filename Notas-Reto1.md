@@ -6,7 +6,7 @@ Se usan para realizar una tarea específica y pueden recibir uno o más argument
 ``` Javascript
     function miFuncion(parametro1, parametro2) {
     // Código de la función
-}
+    }
 ```
 
 ## Null: 
