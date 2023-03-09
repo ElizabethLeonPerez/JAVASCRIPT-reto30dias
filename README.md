@@ -87,6 +87,7 @@ Ejemplo 3:
 ``` Javascript
 Input: 1984.25;
 Output: false;
+```
 
 ### Respuesta:
 ```JavaScript
