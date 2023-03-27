@@ -183,3 +183,83 @@ export function isLeapYear(year) {
 ```JavaScript
 
 ```
+
+## Reto 12
+#### [Apuntes]()
+
+### Respuesta:
+```JavaScript
+
+```
+
+## Reto 13
+#### [Apuntes]()
+
+### Respuesta:
+```JavaScript
+
+```
+
+## Reto 14
+#### [Apuntes]()
+
+### Respuesta:
+```JavaScript
+
+```
+
+## Reto 15
+#### [Apuntes]()
+
+### Respuesta:
+```JavaScript
+
+```
+
+## Reto 16
+#### [Apuntes]()
+
+### Respuesta:
+```JavaScript
+
+```
+
+## Reto 17
+#### [Apuntes]()
+
+### Respuesta:
+```JavaScript
+
+```
+
+## Reto 18
+#### [Apuntes]()
+
+### Respuesta:
+```JavaScript
+
+```
+
+## Reto 19
+#### [Apuntes]()
+
+### Respuesta:
+```JavaScript
+
+```
+
+## Reto 20
+#### [Apuntes]()
+
+### Respuesta:
+```JavaScript
+
+```
+
+## Reto 21
+#### [Apuntes]()
+
+### Respuesta:
+```JavaScript
+
+```
