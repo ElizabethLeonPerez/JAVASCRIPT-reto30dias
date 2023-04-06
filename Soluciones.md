@@ -1,5 +1,5 @@
 
-## Reto 1
+# Reto 1
 #### [Apuntes](https://github.com/ElizabethLeonPerez/JAVASCRIPT-reto30dias/blob/420e092506b71be2a27bf8224cae5023847686b6/Notas-Reto1.md)
 
 En este desafío encontrarás una función llamada `solution` que recibe un parámetro llamado `valor`. Debes encontrar el tipo de dato del parámetro `valor` y retornarlo desde la función `solution`.
@@ -25,7 +25,7 @@ export function solution(valor) {
 }
 ```
 
-## Reto 2
+# Reto 2
 #### [Apuntes]()
 
 En este desafío tendrás que calcular la propina que deben dejar los clientes de un restaurante en función de su consumo.
