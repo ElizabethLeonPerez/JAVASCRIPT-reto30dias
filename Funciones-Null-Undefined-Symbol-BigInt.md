@@ -1,4 +1,4 @@
-# Reto 1: Notas
+# Funciones | Null | Undefined | Symbol | BigInt
 
 ## Funciones
 Se usan para realizar una tarea específica y pueden recibir uno o más argumentos y pueden devolver un valor como resultado.
